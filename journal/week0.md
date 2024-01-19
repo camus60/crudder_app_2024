@@ -1,6 +1,6 @@
 # Week 0 — Billing and Architecture
 
-### How to install the AWS CLI
+### How to install the AWS CLI :mage:
 
 This link will remind you about how to install the aws cli[aws cli installation](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
 
